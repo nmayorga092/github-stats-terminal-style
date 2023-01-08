@@ -52,12 +52,12 @@
     "github": {
         "name": "github",
         "back": "#f4f4f4",
-        "fore": "#3e3e3e",
-        "green": "#87d5a2",
-        "purple": "#e94691",
-        "orange": "#2e6cba",
-        "cyan": "#666666",
-        "username": "#de0000"
+        "fore": "#000000",
+        "green": "#39734d",
+        "purple": "#771c9c",
+        "orange": "##b07823",
+        "cyan": "##193675",
+        "username": "##7d3182"
     },
     "googledark": {
         "name": "googledark",
